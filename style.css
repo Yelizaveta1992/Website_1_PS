@@ -1,0 +1,21 @@
+body {
+    background: #1d1c1c;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%; 
+
+}
+.block_title {
+    color: #fff;
+    font-size: 24px;
+}
+table {
+    text-align: center;
+}
+
+.text {
+    color: #fff;
+    font-size: 14px;
+}
+

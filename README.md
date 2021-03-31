@@ -1,0 +1,1 @@
+Web site with yellow icons from Photoshop layout
